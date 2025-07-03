@@ -1,7 +1,9 @@
 🧠 SkillsWrap
+
 SkillsWrap is a modern Spring Boot application designed to help users track and visualize their skill development over time. It allows users to log skills, categorize them, and view progress with clean RESTful API endpoints. Built with scalability and clarity in mind, SkillsWrap is ideal for portfolios and internship applications.
 
 🚀 Features
+
 ✅ User authentication and JWT-based authorization
 
 📋 CRUD operations for skill management
@@ -19,6 +21,7 @@ SkillsWrap is a modern Spring Boot application designed to help users track and 
 🧪 Unit and integration testing with JUnit and Mockito
 
 🛠 Tech Stack
+
 Tech	Description
 Java 17+	Primary backend language
 Spring Boot	Framework for building the RESTful application
